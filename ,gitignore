@@ -1,0 +1,7 @@
+.DS_Store
+data/dump_windows.sql
+node_modules
+cypress.env.json
+.vscode
+videos
+screenshots

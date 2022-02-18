@@ -1,0 +1,4 @@
+{
+    "baseUrl":"http://www.google.com/",
+    "defaultCommandTimeout": 5000
+}
