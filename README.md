@@ -19,9 +19,8 @@ install VS code: https://code.visualstudio.com/
 ## Clone Repo
 
 git clone https://github.com/orestrepom/endava-challenge/
-```
 
-##Install Cypress:
+## Install Cypress:
 
 Open the project using VS Code
 
@@ -31,12 +30,11 @@ run the below commands:
 
 npm init -y
 
-##Cypress execution mode:
+##  ypress execution mode:
 
-open a terminal from project onyx-cypress root
+open a terminal from the project location
 
- headed mode: npx cypress open
+headed mode: npx cypress open
 
 headless mode: npx cypress run
 
-npm install
