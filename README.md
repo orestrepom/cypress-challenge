@@ -10,9 +10,9 @@ Programing language: JavaScript
 
 # Pre-requisites:
 
-install NodeJs Download | Node.js 
+install NodeJs [Download | Node.js ](https://nodejs.org/en/download/)
 
-install git Git - Downloading Package 
+install git [Git - Downloading Package ](https://git-scm.com/download/win)
 
 install VS code: https://code.visualstudio.com/
 
@@ -30,7 +30,7 @@ run the below commands:
 
 npm init -y
 
-##  ypress execution mode:
+##  Cypress execution mode:
 
 open a terminal from the project location
 
