@@ -6,9 +6,9 @@ Framework : Cypress Installing Cypress | Cypress Documentation
 Programing language: JavaScript
 
 
-## Essential Setup
+# Essential Setup
 
-# Pre-requisites:
+## Pre-requisites:
 
 install NodeJs [Download | Node.js ](https://nodejs.org/en/download/)
 
@@ -18,17 +18,15 @@ install VS code: https://code.visualstudio.com/
 
 ## Clone Repo
 
-git clone https://github.com/orestrepom/endava-challenge/
+git clone https://github.com/orestrepom/cypress-challenge/
 
 ## Install Cypress:
 
 Open the project using VS Code
 
-open a new terminal in the root: ./onyx/cypress
-
-run the below commands: 
-
 npm init -y
+
+npm instal
 
 ##  Cypress execution mode:
 
