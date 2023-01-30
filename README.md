@@ -16,15 +16,12 @@ install git Git - Downloading Package
 
 install VS code: https://code.visualstudio.com/
 
-# Clone Repo
+## Clone Repo
 
-1. Clone this repo:
-
-```
 git clone https://github.com/orestrepom/endava-challenge/
 ```
 
-#Install Cypress:
+##Install Cypress:
 
 Open the project using VS Code
 
@@ -34,7 +31,7 @@ run the below commands:
 
 npm init -y
 
-#Cypress execution mode:
+##Cypress execution mode:
 
 open a terminal from project onyx-cypress root
 
