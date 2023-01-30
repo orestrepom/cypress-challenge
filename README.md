@@ -22,17 +22,17 @@ git clone https://github.com/orestrepom/cypress-challenge/
 
 ## Install Cypress:
 
-Open the project using VS Code
+1. Open the project using VS Code
+2. run the below commands: 
 
 npm init -y
 
-npm instal
+npm install
 
 ##  Cypress execution mode:
 
 open a terminal from the project location
 
-headed mode: npx cypress open
-
-headless mode: npx cypress run
+* headed mode: npx cypress open
+* headless mode: npx cypress run
 
